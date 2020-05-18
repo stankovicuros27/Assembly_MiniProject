@@ -3,5 +3,5 @@
 - DMA Controllers
 - I/O Controllers
 - Interrupts
-###### Console screenshot:
+###### Screenshot:
 ![console screenshot](https://i.imgur.com/imbuPjt.png)
